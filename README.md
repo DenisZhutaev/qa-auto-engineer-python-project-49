@@ -170,23 +170,23 @@ Congratulations, Alex!
 
 Установка пакета и запуск игры brain-even:
 
-<script src="https://asciinema.org/a/QQXsWgLTauKGD47Akjgf7D2qz.js" id="asciicast-QQXsWgLTauKGD47Akjgf7D2qz" async="true"></script>
+[![asciicast](https://asciinema.org/a/QQXsWgLTauKGD47Akjgf7D2qz.svg)](https://asciinema.org/a/QQXsWgLTauKGD47Akjgf7D2qz)
 
 Калькулятор — победа и поражение:
 
-<a href="https://asciinema.org/a/766427" target="_blank"><img src="https://asciinema.org/a/766427.svg" /></a>
+[![asciicast](https://asciinema.org/a/766427.svg)](https://asciinema.org/a/766427)
 
 Наибольший общий делитель — победа и поражение:
 
-<script src="https://asciinema.org/a/766420.js" id="asciicast-766420" async="true"></script>
+[![asciicast](https://asciinema.org/a/766420.svg)](https://asciinema.org/a/766420)
 
 Арифметическая прогрессия — победа и поражение:
 
-<script src="https://asciinema.org/a/766424.js" id="asciicast-766424" async="true"></script>
+[![asciicast](https://asciinema.org/a/766424.svg)](https://asciinema.org/a/766424)
 
 Простое ли число? — победа и поражение:
 
-<script src="https://asciinema.org/a/766431.js" id="asciicast-766431" async="true"></script>
+[![asciicast](https://asciinema.org/a/766431.svg)](https://asciinema.org/a/766431)
 
 ## Разработка
 
