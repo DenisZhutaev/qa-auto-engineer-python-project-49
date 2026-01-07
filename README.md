@@ -174,7 +174,7 @@ Congratulations, Alex!
 
 Калькулятор — победа и поражение:
 
-<script src="https://asciinema.org/a/766427.js" id="asciicast-766427" async="true"></script>
+[![asciicast](https://asciinema.org/a/766427.svg)](https://asciinema.org/a/766427)
 
 Наибольший общий делитель — победа и поражение:
 
